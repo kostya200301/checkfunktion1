@@ -1,7 +1,3 @@
-def in_sale(i):
-    return True
-
-
 def goods_analysis(*args, in_sale=in_sale):
     milk = 0
     if in_sale != 0:
