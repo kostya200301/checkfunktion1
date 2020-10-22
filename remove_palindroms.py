@@ -1,3 +1,4 @@
+new_list = []
 def remove_palindroms(spells):
     spells = new_list
     for i in range(len(spells)):
